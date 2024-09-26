@@ -14,7 +14,10 @@ slides:
 
       1.1.2 **Funcionamiento**: <br>
       Emisión y recepción de luz para detectar cambios en el entorno. Se usa un haz de luz que puede interrumpirse o reflejarse por un objeto. <br><br>
+    background: "#e74c3c"
 
+  - title: Sensores Ópticos (Cont.)
+    slide-data: |
       1.1.3 **Características**: <br>
       - Alta precisión <br>
       - Respuesta rápida <br>
@@ -36,7 +39,10 @@ slides:
 
       1.2.2 **Funcionamiento**: <br>
       Miden la temperatura mediante la variación de resistencia, voltaje o detección de radiación infrarroja. <br><br>
+    background: '#f1c40f'
 
+  - title: Sensores de Temperatura (Cont.)
+    slide-data: |
       1.2.3 **Características**: <br>
       - Alta precisión (especialmente RTD) <br>
       - Amplio rango de medición <br>
@@ -58,7 +64,10 @@ slides:
 
       1.3.2 **Funcionamiento**: <br>
       Detectan la presión a través de la deformación de materiales que generan una señal eléctrica. <br><br>
+    background: '#9b59b6'
 
+  - title: Sensores de Presión (Cont.)
+    slide-data: |
       1.3.3 **Características**: <br>
       - Alta durabilidad <br>
       - Rango de presión amplio <br>
@@ -81,7 +90,10 @@ slides:
 
       1.4.2 **Funcionamiento**: <br>
       Detección de proximidad mediante cambios en campos electromagnéticos, capacitancia, ondas sonoras o luz. <br><br>
+    background: '#3498db'
 
+  - title: Sensores de Proximidad (Cont.)
+    slide-data: |
       1.4.3 **Características**: <br>
       - Alta precisión <br>
       - Rango de detección variable <br>
@@ -92,17 +104,7 @@ slides:
       - Protocolos: I2C, SPI, RS-232, RS-485
     background: '#3498db'
 
-  - title: Slide 5
-    slide-data: This is fifth slide
-    background: '#2ecc71'
-
-  - title: Slide 6
-    slide-data: This is sixth slide
-    background: '#1abc9c'
-
-  - title: Slide 7
-    slide-data: This is seventh slide
-    background: '#e67e22'
+ 
 ---
 
 {% for slide in page.slides %}
