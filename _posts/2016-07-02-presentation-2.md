@@ -7,10 +7,10 @@ slides:
   - title: Sensores Ópticos
     slide-data: |
       1.1.1 **Tipos**: <br>
-      - Fotoeléctricos <br>
-      - Infrarrojos <br>
-      - LIDAR <br>
-      - Cámaras Ópticas <br><br>
+      - Fotoeléctricos 
+      - Infrarrojos 
+      - LIDAR 
+      - Cámaras Ópticas 
 
       1.1.2 **Funcionamiento**: <br>
       Emisión y recepción de luz para detectar cambios en el entorno. Se usa un haz de luz que puede interrumpirse o reflejarse por un objeto. <br><br>
@@ -19,13 +19,13 @@ slides:
   - title: Sensores Ópticos (Cont.)
     slide-data: |
       1.1.3 **Características**: <br>
-      - Alta precisión <br>
-      - Respuesta rápida <br>
-      - Sensibilidad a la luz ambiental o polvo <br><br>
+      - Alta precisión 
+      - Respuesta rápida
+      - Sensibilidad a la luz ambiental o polvo <br>
 
       1.1.4 **Modo de comunicación**: <br>
-      - Señales analógicas/digitales <br>
-      - I2C <br>
+      - Señales analógicas/digitales 
+      - I2C 
       - SPI
     background: "#e74c3c"
 
