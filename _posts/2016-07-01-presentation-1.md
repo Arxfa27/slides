@@ -4,37 +4,32 @@ layout: post
 permalink: /presentation-1/
 background: '#0a5'
 slides:
- - title: Actuadores Eléctricos
+ - title: Actuadores Eléctricos - Tipos y Funcionamiento
    slide-data: |
-     Tipos:<br>
-     - Motores eléctricos<br>
-     - Solenoides<br>
-     - Actuadores lineales eléctricos<br>
-     - Servomotores<br><br>
+     Tipos: Motores eléctricos, solenoides, actuadores lineales eléctricos, servomotores.<br>
+     Funcionamiento: Convierten energía eléctrica en movimiento mecánico.
 
-     Funcionamiento:<br>
-     Convierten energía eléctrica en movimiento mecánico.
-
- - title: Actuadores Mecánicos
+ - title: Actuadores Eléctricos - Características
    slide-data: |
-     Tipos:<br>
-     - Levas<br>
-     - Cremalleras y piñones<br>
-     - Tornillos y tuercas<br>
-     - Poleas y correas<br><br>
+     Características: Alta precisión, buen rendimiento energético, bajo mantenimiento.
 
-     Funcionamiento:<br>
-     Conversión directa de movimiento en fuerza mediante elementos mecánicos.
-
- - title: Actuadores Hidráulicos
+ - title: Actuadores Mecánicos - Tipos y Funcionamiento
    slide-data: |
-     Tipos:<br>
-     - Cilindros hidráulicos<br>
-     - Motores hidráulicos<br>
-     - Bombas hidráulicas<br><br>
+     Tipos: Levas, cremalleras y piñones, tornillos y tuercas, poleas y correas.<br>
+     Funcionamiento: Conversión directa de movimiento en fuerza mediante elementos mecánicos.
 
-     Funcionamiento:<br>
-     Utilizan la presión de un fluido para generar movimiento.
+ - title: Actuadores Mecánicos - Características
+   slide-data: |
+     Características: Alta durabilidad, simplicidad, capacidad para soportar cargas pesadas.
+
+ - title: Actuadores Hidráulicos - Tipos y Funcionamiento
+   slide-data: |
+     Tipos: Cilindros hidráulicos, motores hidráulicos, bombas hidráulicas.<br>
+     Funcionamiento: Utilizan la presión de un fluido para generar movimiento.
+
+ - title: Actuadores Hidráulicos - Características
+   slide-data: |
+     Características: Alta fuerza, precisión moderada, robustez en entornos industriales.
 
 ---
 
