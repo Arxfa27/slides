@@ -128,6 +128,7 @@ slides:
       - Protocolos: I2C, SPI, RS-232, RS-485
     background: '#3498db'
 
+---
 
 {% for slide in page.slides %}
                     
